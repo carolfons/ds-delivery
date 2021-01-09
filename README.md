@@ -7,7 +7,7 @@
 </p>
 
 <h2> :fork_and_knife: Descrição do Projeto </h2>
-<p> Projeto criado durante a Semana SDS, com o objetivo de implementar uma plataforma de aplicativo delivery </p>
+<p> O projeto consiste em um sistema de registro e entrega de pedidos. É utilizado Java com Spring Boot, e implantação no Heroku. </p>
 <h2> :fork_and_knife: Status </h2>
 <p> Projeto em andamento :construction: </p>
 <h2> :fork_and_knife: Tecnologias </h2>
@@ -25,7 +25,7 @@
 
 <table border = "1">
  <tr>
- <th align = "center"> <bold> Conteúdo</bold> </th>
+ <th align = "center"> <bold> Etapas </bold> </th>
  <th align = "center"><bold> Status</bold> </th>
  </tr>
  
