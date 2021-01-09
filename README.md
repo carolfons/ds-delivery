@@ -21,4 +21,31 @@
   <li> VS Code </li>
   <li> Git </li>
 </ul>
+<h2> :fork_and_knife: CheckList </h2>
+
+<table border = "1">
+ <tr>
+ <th align = "center"> <bold> Conteúdo</bold> </th>
+ <th align = "center"><bold> Status</bold> </th>
+ </tr>
+ 
+ <tr>
+ <td> Backend </td>
+ <td align = "center"> :heavy_check_mark: </td>
+ </tr>
+ 
+ <tr>
+ <td> Frontend web 1 </td>
+ <td align = "center"> :x: </td>
+ </tr>
+ 
+ <tr>
+ <td> Frontend web 2 </td>
+ <td align = "center"> :x: </td>
+ </tr>
+ 
+ <tr>
+ <td> Frontend mobile </td>
+ <td align = "center"> :x: </td>
+ </tr>
 
