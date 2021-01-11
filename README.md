@@ -9,7 +9,7 @@
 <h2> :fork_and_knife: Descrição do Projeto </h2>
 <p> O projeto consiste em um sistema de registro e entrega de pedidos. É utilizado Java com Spring Boot, e implantação no Heroku. </p>
 <h2> :fork_and_knife: Status </h2>
-<p> Projeto em andamento :construction: </p>
+<p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
 <h2> :fork_and_knife: Tecnologias </h2>
 <ul>
   <li> JDK 11 </li>
@@ -42,7 +42,7 @@
  
  <tr>
  <td> Frontend web 2 </td>
- <td align = "center"> :x: </td>
+ <td align = "center"> :heavy_check_mark: </td>
  </tr>
  
  <tr>
