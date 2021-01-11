@@ -11,7 +11,7 @@
 <h2> :fork_and_knife: Status </h2>
 <p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
 <h4> Projeto no Netlifly </h4>
-<h5> :pizza: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h5>
+<h5> :pizza: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> :pizza: </h5>
 
 <h2> :fork_and_knife: Tecnologias </h2>
 <ul>
