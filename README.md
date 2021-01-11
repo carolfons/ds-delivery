@@ -36,7 +36,7 @@
  
  <tr>
  <td> Frontend web 1 </td>
- <td align = "center"> :x: </td>
+ <td align = "center"> :heavy_check_mark: </td>
  </tr>
  
  <tr>
