@@ -10,6 +10,9 @@
 <p> O projeto consiste em um sistema de registro e entrega de pedidos. É utilizado Java com Spring Boot, e implantação no Heroku. </p>
 <h2> :fork_and_knife: Status </h2>
 <p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
+<h4> Projeto no Netlifly </h4>
+<h5> :pizza: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h5>
+
 <h2> :fork_and_knife: Tecnologias </h2>
 <ul>
   <li> JDK 11 </li>
@@ -49,4 +52,5 @@
  <td> Frontend mobile </td>
  <td align = "center"> :x: </td>
  </tr>
+
 
