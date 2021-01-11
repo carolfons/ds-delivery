@@ -13,11 +13,11 @@
 
 <h2> :fork_and_knife: Status </h2>
 <p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
-<h4> Projeto no Netlifly </h4>
-<h5> :pizza: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> :pizza: </h5>
-<h4> Página inicial do projeto </h4>
-<p > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
+<h2> Projeto no Netlifly :point_right: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h2>
 
+<h2 > :fork_and_knife: Página inicial do projeto </h2>
+<p > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
+<h3 align = "center"> :pizza: :pizza: :pizza: </h3>
 
 <h2> :fork_and_knife: Tecnologias </h2>
 <ul>
