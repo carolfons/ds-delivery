@@ -6,12 +6,18 @@
  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carolfons/ds-delivery?color=red&style=for-the-badge">
 </p>
 
+<p align = "center"> <img alt="logo" src="https://github.com/carolfons/ds-delivery/blob/main/assets/logo.PNG"></p>
+
 <h2> :fork_and_knife: Descrição do Projeto </h2>
-<p> O projeto consiste em um sistema de registro e entrega de pedidos. É utilizado Java com Spring Boot, e implantação no Heroku. </p>
+<p> O projeto consiste em um sistema de registro e entrega de pedidos. É utilizado Java com Spring Boot, e implantação no Heroku do back-end e o Front-web foi desenvolvido em ReactJS e Typescript. </p>
+
 <h2> :fork_and_knife: Status </h2>
 <p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
 <h4> Projeto no Netlifly </h4>
 <h5> :pizza: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> :pizza: </h5>
+<h4> Página inicial do projeto </h4>
+<p > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
+
 
 <h2> :fork_and_knife: Tecnologias </h2>
 <ul>
