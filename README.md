@@ -18,6 +18,7 @@
   <li> Postgresql 12 e pgAdmin </li>
   <li> Heroku </li>
   <li> NPM </li>
+  <li> React </li>
   <li> VS Code </li>
   <li> Git </li>
 </ul>
@@ -36,7 +37,7 @@
  
  <tr>
  <td> Frontend web 1 </td>
- <td align = "center"> :x: </td>
+ <td align = "center"> :heavy_check_mark: </td>
  </tr>
  
  <tr>
