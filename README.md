@@ -13,7 +13,7 @@
 
 <h2> :fork_and_knife: Status </h2>
 <p> Back e Front-end finalizados! <br/> App Mobile em andamento :construction: </p>
-<h2> Projeto no Netlifly :point_right: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h2>
+<h2> :fork_and_knife: Projeto no Netlifly :point_right: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h2>
 
 <h2 > :fork_and_knife: Página inicial do projeto </h2>
 <p > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
