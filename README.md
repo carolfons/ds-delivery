@@ -16,7 +16,7 @@
 <h2> :fork_and_knife: Projeto no Netlifly :point_right: <a href = "https://devs-delivery.netlify.app"> DS DELIVERY </a> </h2>
 <br/>
 <h2 > :fork_and_knife: Página inicial do projeto </h2>
-<p > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
+<p align = "center" > <img alt="page-landing" src="https://github.com/carolfons/ds-delivery/blob/main/assets/page-landing.PNG" width = auto height = 200></p>
 <h3 align = "center"> :pizza: :pizza: :pizza: </h3>
 
 <h2> :fork_and_knife: Tecnologias </h2>
