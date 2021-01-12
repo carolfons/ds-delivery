@@ -27,7 +27,8 @@
   <li> Postgresql 12 e pgAdmin </li>
   <li> Heroku </li>
   <li> NPM </li>
-  <li> React </li>
+  <li> ReactJS </li>
+  <li> Typescript </li>
   <li> VS Code </li>
   <li> Git </li>
 </ul>
